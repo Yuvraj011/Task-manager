@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #8c03fc;
+    text-align: center;
+}
+
+#mydiv{
+    text-align: center;
+}
+
+#myinput{
+    width: 250px;
+    padding: 15px;
+}
+
+#mybtn{
+    height: 50px;
+}
+
+.ul-div{
+    background-color: aquamarine;
+    width: 350px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 535px;
+    margin-bottom: 3px;
+}
+
+.button1{
+    font-size: 18px;
+    height: 35px;
+    width: 30px;
+    background-color: #fc0356;
+    border-radius: 5px;
+}
+
+.button2{
+    font-size: 18px;
+    height: 35px;
+    width: 30px;
+    background-color: #0362fc;
+    border-radius: 5px;
+}
+
+.button3{
+    font-size: 18px;
+    height: 35px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: #fc9003;
+}
+
+.myli{
+    display: inline-block;
+    background-color: aquamarine;
+}
